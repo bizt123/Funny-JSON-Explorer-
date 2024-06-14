@@ -73,7 +73,7 @@ bizt
 
 ### 2.1 类图
 
-![alt text](image/21307129_毕泽同_DesignPattern习题/类图.svg)
+![alt text](image/类图.svg)
 
 类说明
 
@@ -173,7 +173,7 @@ bizt
 
 运行fje/data/sample.json
 
-![alt text](image/21307129_毕泽同_DesignPattern习题/标准测试截图.png)
+![alt text](image/标准测试截图.png)
 
 ```txt
 ├─ oranges
